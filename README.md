@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asaribatur.
 - 👀 I’m interested in coding, developing software projects, creating awesome games.
-- 🌱 I’m currently learning Front-end Web Development.
-- 💞️ I’m looking to collaborate on Unity projects.
+- 🌱 I’m currently learning Data Science with Python.
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me syriana33@gmail.com
 
 <!---
