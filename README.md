@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, developing software projects, building efficient machine learning models.
 - 🌱 I still sharpen my Data Science and AWS skills.
 - 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me syriana33@gmail.com
+- 📫 Send an [e-mail](mailto:syriana33@gmail.com)
 - :briefcase: [Linkedin profile](https://www.linkedin.com/in/abdullah-saribatur/)
 - ⚫ [Medium profile](https://medium.com/@abdullahsaribatur)
 
