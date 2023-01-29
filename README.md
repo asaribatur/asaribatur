@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me syriana33@gmail.com
 - :briefcase: Linkedin profile: https://www.linkedin.com/in/abdullah-saribatur/
-- ⚫ medium: ![image](https://user-images.githubusercontent.com/98434040/215359098-a684cec2-c6a1-47fe-8fea-b5af7ac8c040.png)
+- ⚫ medium: ![image](https://user-images.githubusercontent.com/98434040/215359144-07b70223-d0aa-4e79-b2bf-3d6c7ffd6a9b.png)
+
 
 
 <!---
